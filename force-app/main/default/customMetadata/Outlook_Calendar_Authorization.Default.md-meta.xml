@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Default</label>
+    <protected>false</protected>
+    <values>
+        <field>Client_Id__c</field>
+        <value xsi:type="xsd:string">3a16d114-1bf1-45b6-a09c-41bf416d77ac</value>
+    </values>
+    <values>
+        <field>Client_Secret__c</field>
+        <value xsi:type="xsd:string">-jD8Q~uzFfsd2S1rTy2RPaNYHMXkUP4LBv7y9bhM</value>
+    </values>
+    <values>
+        <field>Grant_Type__c</field>
+        <value xsi:type="xsd:string">client_credentials</value>
+    </values>
+    <values>
+        <field>Scope__c</field>
+        <value xsi:type="xsd:string">https://graph.microsoft.com/.default</value>
+    </values>
+    <values>
+        <field>Tenant_Id__c</field>
+        <value xsi:type="xsd:string">d3cc6fae-36bb-4856-a353-5811b1cb3b6c</value>
+    </values>
+</CustomMetadata>

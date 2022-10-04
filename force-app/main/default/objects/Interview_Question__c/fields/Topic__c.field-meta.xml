@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Topic__c</fullName>
+    <externalId>false</externalId>
+    <label>Topic</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Process planning (SDLC)</fullName>
+                <default>false</default>
+                <label>Process planning (SDLC)</label>
+            </value>
+            <value>
+                <fullName>Estimation</fullName>
+                <default>false</default>
+                <label>Estimation</label>
+            </value>
+            <value>
+                <fullName>Software Requirements Engineering</fullName>
+                <default>false</default>
+                <label>Software Requirements Engineering</label>
+            </value>
+            <value>
+                <fullName>OOD</fullName>
+                <default>false</default>
+                <label>OOD</label>
+            </value>
+            <value>
+                <fullName>DB Design</fullName>
+                <default>false</default>
+                <label>DB Design</label>
+            </value>
+            <value>
+                <fullName>Algorithms</fullName>
+                <default>false</default>
+                <label>Algorithms</label>
+            </value>
+            <value>
+                <fullName>Salesforce Development Lifecycle</fullName>
+                <default>false</default>
+                <label>Salesforce Development Lifecycle</label>
+            </value>
+            <value>
+                <fullName>Apex Programming</fullName>
+                <default>false</default>
+                <label>Apex Programming</label>
+            </value>
+            <value>
+                <fullName>Salesforce Security Model</fullName>
+                <default>false</default>
+                <label>Salesforce Security Model</label>
+            </value>
+            <value>
+                <fullName>Salesforce Objects Models</fullName>
+                <default>false</default>
+                <label>Salesforce Objects Models</label>
+            </value>
+            <value>
+                <fullName>Automation Business Processes</fullName>
+                <default>false</default>
+                <label>Automation Business Processes</label>
+            </value>
+            <value>
+                <fullName>Salesforce Layouts and Flexipages</fullName>
+                <default>false</default>
+                <label>Salesforce Layouts and Flexipages</label>
+            </value>
+            <value>
+                <fullName>Salesforce Lightning</fullName>
+                <default>false</default>
+                <label>Salesforce Lightning</label>
+            </value>
+            <value>
+                <fullName>AppExchange &amp; Packages</fullName>
+                <default>false</default>
+                <label>AppExchange &amp; Packages</label>
+            </value>
+            <value>
+                <fullName>Platform events</fullName>
+                <default>false</default>
+                <label>Platform events</label>
+            </value>
+            <value>
+                <fullName>Async tools</fullName>
+                <default>false</default>
+                <label>Async tools</label>
+            </value>
+            <value>
+                <fullName>Metadata API, SFDX</fullName>
+                <default>false</default>
+                <label>Metadata API, SFDX</label>
+            </value>
+            <value>
+                <fullName>CSS/CSS3</fullName>
+                <default>false</default>
+                <label>CSS/CSS3</label>
+            </value>
+            <value>
+                <fullName>HTML/HTML5</fullName>
+                <default>false</default>
+                <label>HTML/HTML5</label>
+            </value>
+            <value>
+                <fullName>JavaScript</fullName>
+                <default>false</default>
+                <label>JavaScript</label>
+            </value>
+            <value>
+                <fullName>SOQL, SOSL, DML</fullName>
+                <default>false</default>
+                <label>SOQL, SOSL, DML</label>
+            </value>
+            <value>
+                <fullName>Code quality</fullName>
+                <default>false</default>
+                <label>Code quality</label>
+            </value>
+            <value>
+                <fullName>Refactoring</fullName>
+                <default>false</default>
+                <label>Refactoring</label>
+            </value>
+            <value>
+                <fullName>Automated testing</fullName>
+                <default>false</default>
+                <label>Automated testing</label>
+            </value>
+            <value>
+                <fullName>Version Control Systems</fullName>
+                <default>false</default>
+                <label>Version Control Systems</label>
+            </value>
+            <value>
+                <fullName>Product Builds and Continuous Integration</fullName>
+                <default>false</default>
+                <label>Product Builds and Continuous Integration</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

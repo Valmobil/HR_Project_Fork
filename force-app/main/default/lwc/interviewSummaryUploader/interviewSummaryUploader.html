@@ -1,0 +1,31 @@
+<template>
+    <lightning-card title="Upload Summary Template">
+        <lightning-spinner if:true={isProcessOngoing}>
+        </lightning-spinner>
+        <lightning-file-upload
+            label=" "
+            record-id={recordId}
+            accept={acceptedFormats}
+            disabled={isUploadFilesDisabled}
+            onuploadfinished={handleUploadFinished}>
+        </lightning-file-upload>
+
+        <lightning-layout>
+            <lightning-layout-item size="6">
+                <lightning-button
+                    label="Add record info"
+                    onclick={handleAddInfo}
+                    disabled={isAddInfoDisabled}>
+                </lightning-button>
+            </lightning-layout-item>
+
+            <lightning-layout-item size="6">
+                <lightning-button
+                    label="Download new file"
+                    onclick={handleDownloadInfo}
+                    disabled={isDownloadDisabled}>
+                </lightning-button>
+            </lightning-layout-item>
+        </lightning-layout>
+    </lightning-card>
+</template>

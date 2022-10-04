@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Group__c</fullName>
+    <externalId>false</externalId>
+    <label>Group</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Programming</fullName>
+                <default>false</default>
+                <label>Programming</label>
+            </value>
+            <value>
+                <fullName>DataBase</fullName>
+                <default>false</default>
+                <label>DataBase</label>
+            </value>
+            <value>
+                <fullName>FrontEnd</fullName>
+                <default>false</default>
+                <label>FrontEnd</label>
+            </value>
+            <value>
+                <fullName>SF specific deployments</fullName>
+                <default>false</default>
+                <label>SF specific deployments</label>
+            </value>
+            <value>
+                <fullName>Salesforce products</fullName>
+                <default>false</default>
+                <label>Salesforce products</label>
+            </value>
+            <value>
+                <fullName>Declarative</fullName>
+                <default>false</default>
+                <label>Declarative</label>
+            </value>
+            <value>
+                <fullName>Integration</fullName>
+                <default>false</default>
+                <label>Integration</label>
+            </value>
+            <value>
+                <fullName>Reporting</fullName>
+                <default>false</default>
+                <label>Reporting</label>
+            </value>
+            <value>
+                <fullName>Performance</fullName>
+                <default>false</default>
+                <label>Performance</label>
+            </value>
+            <value>
+                <fullName>Code Quality</fullName>
+                <default>false</default>
+                <label>Code Quality</label>
+            </value>
+            <value>
+                <fullName>Automated testing</fullName>
+                <default>false</default>
+                <label>Automated testing</label>
+            </value>
+            <value>
+                <fullName>Source Controls</fullName>
+                <default>false</default>
+                <label>Source Controls</label>
+            </value>
+            <value>
+                <fullName>Methodologies</fullName>
+                <default>false</default>
+                <label>Methodologies</label>
+            </value>
+            <value>
+                <fullName>Build &amp; Dependency Management Tools</fullName>
+                <default>false</default>
+                <label>Build &amp; Dependency Management Tools</label>
+            </value>
+            <value>
+                <fullName>Other candidate&apos;s skills</fullName>
+                <default>false</default>
+                <label>Other candidate&apos;s skills</label>
+            </value>
+            <value>
+                <fullName>Industry</fullName>
+                <default>false</default>
+                <label>Industry</label>
+            </value>
+            <value>
+                <fullName>Implementation Lifecycle</fullName>
+                <default>false</default>
+                <label>Implementation Lifecycle</label>
+            </value>
+            <value>
+                <fullName>Documenting</fullName>
+                <default>false</default>
+                <label>Documenting</label>
+            </value>
+            <value>
+                <fullName>Core</fullName>
+                <default>false</default>
+                <label>Core</label>
+            </value>
+            <value>
+                <fullName>Sales Cloud</fullName>
+                <default>false</default>
+                <label>Sales Cloud</label>
+            </value>
+            <value>
+                <fullName>Service Cloud</fullName>
+                <default>false</default>
+                <label>Service Cloud</label>
+            </value>
+            <value>
+                <fullName>Engineering Management</fullName>
+                <default>false</default>
+                <label>Engineering Management</label>
+            </value>
+            <value>
+                <fullName>Requirements</fullName>
+                <default>false</default>
+                <label>Requirements</label>
+            </value>
+            <value>
+                <fullName>Design</fullName>
+                <default>false</default>
+                <label>Design</label>
+            </value>
+            <value>
+                <fullName>UI</fullName>
+                <default>false</default>
+                <label>UI</label>
+            </value>
+            <value>
+                <fullName>DB</fullName>
+                <default>false</default>
+                <label>DB</label>
+            </value>
+            <value>
+                <fullName>Verification</fullName>
+                <default>false</default>
+                <label>Verification</label>
+            </value>
+            <value>
+                <fullName>Configuration Management</fullName>
+                <default>false</default>
+                <label>Configuration Management</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>HR_Tool</members>
+		<name>CustomApplication</name>
+	</types>
+	<types>
+		<members>Account</members>
+		<members>Contact</members>
+		<members>Interview_Answer__c</members>
+		<members>Interview_Question_Topic__c</members>
+		<members>Interview_Question__c</members>
+		<members>Interview_Summary__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Interviewer</members>
+		<members>Recruiter</members>
+		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>Admin_Permission_Set_Group</members>
+		<members>Interviewer_Permission_Set_Group</members>
+		<members>Recruiter_Permission_Set_Group</members>
+		<name>PermissionSetGroup</name>
+	</types>
+	<types>
+		<members>Admin</members>
+		<members>Interviewer Profile</members>
+		<members>Recruiter Profile</members>
+		<name>Profile</name>
+	</types>
+	<version>53.0</version>
+</Package>
